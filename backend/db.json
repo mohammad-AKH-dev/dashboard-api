@@ -156,18 +156,18 @@
       "role": "admin"
     }
   ],
-  "products": [
+ "products": [
   {
     "id": "1",
     "product": {
       "name": "Laptop",
-      "img": "https://dkstatics-public.digikala.com/digikala-products/135646032.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+      "img": "/images/products/Watch.png"
     },
     "category": "Digital",
-    "price": 1500,
+    "price": 150,
     "company": {
-      "name": "IranTech",
-      "img": "https://example.com/company/irantech.png"
+      "name": "Google",
+      "img": "/images/companies/Google.png"
     },
     "status": "Out of stock"
   },
@@ -175,85 +175,85 @@
     "id": "2",
     "product": {
       "name": "Watch",
-      "img": "https://dkstatics-public.digikala.com/digikala-products/121541913.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+      "img": "/images/products/Watch.png"
     },
     "category": "Accessories",
     "price": 100,
     "company": {
-      "name": "Casio",
-      "img": "https://example.com/company/casio.png"
+      "name": "Google",
+      "img": "/images/companies/Google.png"
     },
     "status": "In stock"
   },
   {
     "id": "3",
     "product": {
-      "name": "Headphones",
-      "img": "https://dkstatics-public.digikala.com/digikala-products/133856925.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+      "name": "Watch",
+      "img": "/images/products/Watch.png"
     },
-    "category": "Digital",
-    "price": 250,
+    "category": "Accessories",
+    "price": 100,
     "company": {
-      "name": "Sony",
-      "img": "https://example.com/company/sony.png"
+      "name": "Google",
+      "img": "/images/companies/Google.png"
     },
     "status": "In stock"
   },
   {
     "id": "4",
     "product": {
-      "name": "Book",
-      "img": "https://static7.irna.ir/irna/album/20210724/1627122685164.jpg"
+      "name": "Watch",
+      "img": "/images/products/Watch.png"
     },
-    "category": "Books",
-    "price": 20,
+    "category": "Accessories",
+    "price": 100,
     "company": {
-      "name": "Nashr Ney",
-      "img": "https://example.com/company/nashr_ney.png"
+      "name": "Google",
+      "img": "/images/companies/Google.png"
     },
     "status": "In stock"
   },
   {
     "id": "5",
     "product": {
-      "name": "Mobile Phone",
-      "img": "https://dkstatics-public.digikala.com/digikala-products/120728592.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+      "name": "Watch",
+      "img": "/images/products/Watch.png"
     },
-    "category": "Digital",
-    "price": 1200,
+    "category": "Accessories",
+    "price": 100,
     "company": {
-      "name": "Xiaomi",
-      "img": "https://example.com/company/xiaomi.png"
+      "name": "Google",
+      "img": "/images/companies/Google.png"
     },
     "status": "In stock"
   },
   {
     "id": "6",
     "product": {
-      "name": "Tablet",
-      "img": "https://dkstatics-public.digikala.com/digikala-products/13873654.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+      "name": "Watch",
+      "img": "/images/products/Watch.png"
     },
-    "category": "Digital",
-    "price": 800,
+    "category": "Accessories",
+    "price": 100,
     "company": {
-      "name": "Samsung",
-      "img": "https://example.com/company/samsung.png"
+      "name": "Google",
+      "img": "/images/companies/Google.png"
     },
     "status": "In stock"
   },
   {
     "id": "7",
     "product": {
-      "name": "Camera",
-      "img": "https://dkstatics-public.digikala.com/digikala-products/130654734.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+      "name": "Watch",
+      "img": "/images/products/Watch.png"
     },
-    "category": "Digital",
-    "price": 600,
+    "category": "Accessories",
+    "price": 100,
     "company": {
-      "name": "Canon",
-      "img": "https://example.com/company/canon.png"
+      "name": "Google",
+      "img": "/images/companies/Google.png"
     },
-    "status": "Out of stock"
+    "status": "In stock"
   }
 ],
   "messages": [
