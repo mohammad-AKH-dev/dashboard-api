@@ -156,15 +156,15 @@
       "role": "admin"
     }
   ],
- "products": [
+"products": [
   {
     "id": "1",
     "product": {
-      "name": "Laptop",
+      "name": "Laptop Pro 15",
       "img": "/images/products/Watch.png"
     },
-    "category": "Digital",
-    "price": 150,
+    "category": "Computers",
+    "price": 1800,
     "company": {
       "name": "Google",
       "img": "/images/companies/Google.png"
@@ -174,11 +174,11 @@
   {
     "id": "2",
     "product": {
-      "name": "Watch",
+      "name": "Classic Watch",
       "img": "/images/products/Watch.png"
     },
-    "category": "Accessories",
-    "price": 100,
+    "category": "Wearables",
+    "price": 120,
     "company": {
       "name": "Google",
       "img": "/images/companies/Google.png"
@@ -188,11 +188,11 @@
   {
     "id": "3",
     "product": {
-      "name": "Watch",
+      "name": "Smart Watch",
       "img": "/images/products/Watch.png"
     },
-    "category": "Accessories",
-    "price": 100,
+    "category": "Wearables",
+    "price": 150,
     "company": {
       "name": "Google",
       "img": "/images/companies/Google.png"
@@ -202,11 +202,11 @@
   {
     "id": "4",
     "product": {
-      "name": "Watch",
+      "name": "Sport Watch",
       "img": "/images/products/Watch.png"
     },
-    "category": "Accessories",
-    "price": 100,
+    "category": "Sports Gear",
+    "price": 130,
     "company": {
       "name": "Google",
       "img": "/images/companies/Google.png"
@@ -216,11 +216,11 @@
   {
     "id": "5",
     "product": {
-      "name": "Watch",
+      "name": "Watch Leather",
       "img": "/images/products/Watch.png"
     },
     "category": "Accessories",
-    "price": 100,
+    "price": 110,
     "company": {
       "name": "Google",
       "img": "/images/companies/Google.png"
@@ -230,11 +230,11 @@
   {
     "id": "6",
     "product": {
-      "name": "Watch",
+      "name": "Watch Digital",
       "img": "/images/products/Watch.png"
     },
-    "category": "Accessories",
-    "price": 100,
+    "category": "Gadgets",
+    "price": 115,
     "company": {
       "name": "Google",
       "img": "/images/companies/Google.png"
@@ -244,11 +244,11 @@
   {
     "id": "7",
     "product": {
-      "name": "Watch",
+      "name": "Watch Classic 2",
       "img": "/images/products/Watch.png"
     },
-    "category": "Accessories",
-    "price": 100,
+    "category": "Timepieces",
+    "price": 125,
     "company": {
       "name": "Google",
       "img": "/images/companies/Google.png"
