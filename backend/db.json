@@ -157,105 +157,105 @@
     }
   ],
   "products": [
-    {
-      "id": "1",
-      "product": {
-        "name": "Laptop Pro",
-        "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mba15-midnight-m2-202306?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1684518477583"
-      },
-      "category": "Electronics",
-      "price": 1200,
-      "company": {
-        "name": "Apple",
-        "img": "https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png"
-      },
-      "status": "In Stock"
+  {
+    "id": "1",
+    "product": {
+      "name": "Laptop",
+      "img": "https://dkstatics-public.digikala.com/digikala-products/135646032.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
     },
-    {
-      "id": "2",
-      "product": {
-        "name": "Smartwatch Ultra",
-        "img": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-watch-ultra-492050-sm-l705fzsains-541406762?$650_519_PNG$"
-      },
-      "category": "Wearables",
-      "price": 350,
-      "company": {
-        "name": "Samsung",
-        "img": "https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/base/images/logo--samsung-black.svg"
-      },
-      "status": "Out of Stock"
+    "category": "Digital",
+    "price": 1500,
+    "company": {
+      "name": "IranTech",
+      "img": "https://example.com/company/irantech.png"
     },
-    {
-      "id": "3",
-      "product": {
-        "name": "Wireless Earbuds",
-        "img": "https://www.sony.com/image/5d117c37e7f752f2463e39fd7d03e337?fmt=pjpeg&wid=1200&hei=600"
-      },
-      "category": "Audio",
-      "price": 150,
-      "company": {
-        "name": "Sony",
-        "img": "https://www.sony.com/en/SonyInfo/CorporateInfo/img/logo_sony.svg"
-      },
-      "status": "In Stock"
+    "status": "Out of stock"
+  },
+  {
+    "id": "2",
+    "product": {
+      "name": "Watch",
+      "img": "https://dkstatics-public.digikala.com/digikala-products/121541913.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
     },
-    {
-      "id": "4",
-      "product": {
-        "name": "Gaming Console",
-        "img": "https://compass-ssl.xbox.com/assets/0c/9a/0c9a1b8e-0b6b-4c92-9b83-3b8c2c82a5c3.png?n=Xbox-Series-X-Console-2.png"
-      },
-      "category": "Gaming",
-      "price": 500,
-      "company": {
-        "name": "Microsoft",
-        "img": "https://www.microsoft.com/en-us/dms/image/microsoft-logo"
-      },
-      "status": "Pre-Order"
+    "category": "Accessories",
+    "price": 100,
+    "company": {
+      "name": "Casio",
+      "img": "https://example.com/company/casio.png"
     },
-    {
-      "id": "5",
-      "product": {
-        "name": "Smartphone X",
-        "img": "https://store.google.com/static/images/products/pixel-9-pro-xl/obsidian.png"
-      },
-      "category": "Mobile",
-      "price": 900,
-      "company": {
-        "name": "Google",
-        "img": "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"
-      },
-      "status": "In Stock"
+    "status": "In stock"
+  },
+  {
+    "id": "3",
+    "product": {
+      "name": "Headphones",
+      "img": "https://dkstatics-public.digikala.com/digikala-products/133856925.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
     },
-    {
-      "id": "6",
-      "product": {
-        "name": "Smart Speaker",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/81DJ+5F2o2L._AC_SL1500_.jpg"
-      },
-      "category": "Home Automation",
-      "price": 120,
-      "company": {
-        "name": "Amazon",
-        "img": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Amazon_Logo._CB432591858_.png"
-      },
-      "status": "Out of Stock"
+    "category": "Digital",
+    "price": 250,
+    "company": {
+      "name": "Sony",
+      "img": "https://example.com/company/sony.png"
     },
-    {
-      "id": "7",
-      "product": {
-        "name": "VR Headset",
-        "img": "https://www.meta.com/cdn-cgi/image/width=1200,format=auto,quality=80/https://www.meta.com/_next/image/?url=/images/quest-3/Quest3_EliteStrap_wBattery_34Left-wShadow.png&w=1920&q=80"
-      },
-      "category": "Virtual Reality",
-      "price": 600,
-      "company": {
-        "name": "Meta",
-        "img": "https://www.meta.com/cdn-cgi/image/width=1200,format=auto,quality=80/https://www.meta.com/images/logo/wordmark/black.png"
-      },
-      "status": "In Stock"
-    }
-  ],
+    "status": "In stock"
+  },
+  {
+    "id": "4",
+    "product": {
+      "name": "Book",
+      "img": "https://static7.irna.ir/irna/album/20210724/1627122685164.jpg"
+    },
+    "category": "Books",
+    "price": 20,
+    "company": {
+      "name": "Nashr Ney",
+      "img": "https://example.com/company/nashr_ney.png"
+    },
+    "status": "In stock"
+  },
+  {
+    "id": "5",
+    "product": {
+      "name": "Mobile Phone",
+      "img": "https://dkstatics-public.digikala.com/digikala-products/120728592.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+    },
+    "category": "Digital",
+    "price": 1200,
+    "company": {
+      "name": "Xiaomi",
+      "img": "https://example.com/company/xiaomi.png"
+    },
+    "status": "In stock"
+  },
+  {
+    "id": "6",
+    "product": {
+      "name": "Tablet",
+      "img": "https://dkstatics-public.digikala.com/digikala-products/13873654.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+    },
+    "category": "Digital",
+    "price": 800,
+    "company": {
+      "name": "Samsung",
+      "img": "https://example.com/company/samsung.png"
+    },
+    "status": "In stock"
+  },
+  {
+    "id": "7",
+    "product": {
+      "name": "Camera",
+      "img": "https://dkstatics-public.digikala.com/digikala-products/130654734.jpg?x-oss-process=image/resize,m_lfit,h_36,w_36/quality,q_80"
+    },
+    "category": "Digital",
+    "price": 600,
+    "company": {
+      "name": "Canon",
+      "img": "https://example.com/company/canon.png"
+    },
+    "status": "Out of stock"
+  }
+],
   "messages": [
     {
       "id": "1",
