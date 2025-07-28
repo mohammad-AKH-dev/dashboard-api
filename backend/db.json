@@ -1,150 +1,150 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "Germany",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "online",
-      "email": "m@example.com"
+ "users": [
+  {
+    "id": "1",
+    "client": "John Carter",
+    "phone": "(414) 907-1274",
+    "country": "Germany",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "2",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "French",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "online",
-      "email": "m@example.com"
+    "status": "online",
+    "email": "john.carter@example.com"
+  },
+  {
+    "id": "2",
+    "client": "Mary Johnson",
+    "phone": "(212) 555-8392",
+    "country": "France",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "3",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
+    "status": "online",
+    "email": "mary.johnson@example.com"
+  },
+  {
+    "id": "3",
+    "client": "David Smith",
+    "phone": "(305) 555-0147",
+    "country": "United States",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "4",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
+    "status": "offline",
+    "email": "david.smith@example.com"
+  },
+  {
+    "id": "4",
+    "client": "Linda Williams",
+    "phone": "(617) 555-0199",
+    "country": "Canada",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "5",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
+    "status": "offline",
+    "email": "linda.williams@example.com"
+  },
+  {
+    "id": "5",
+    "client": "James Brown",
+    "phone": "(415) 555-0123",
+    "country": "United Kingdom",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "6",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
+    "status": "offline",
+    "email": "james.brown@example.com"
+  },
+  {
+    "id": "6",
+    "client": "Patricia Davis",
+    "phone": "(702) 555-0456",
+    "country": "Australia",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "7",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
+    "status": "offline",
+    "email": "patricia.davis@example.com"
+  },
+  {
+    "id": "7",
+    "client": "Robert Miller",
+    "phone": "(503) 555-0987",
+    "country": "Germany",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "8",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "online",
-      "email": "m@example.com"
+    "status": "offline",
+    "email": "robert.miller@example.com"
+  },
+  {
+    "id": "8",
+    "client": "Jennifer Wilson",
+    "phone": "(312) 555-0789",
+    "country": "France",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "9",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
+    "status": "online",
+    "email": "jennifer.wilson@example.com"
+  },
+  {
+    "id": "9",
+    "client": "Michael Moore",
+    "phone": "(212) 555-0333",
+    "country": "United States",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "10",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
+    "status": "offline",
+    "email": "michael.moore@example.com"
+  },
+  {
+    "id": "10",
+    "client": "Elizabeth Taylor",
+    "phone": "(415) 555-0567",
+    "country": "Canada",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "11",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
+    "status": "offline",
+    "email": "elizabeth.taylor@example.com"
+  },
+  {
+    "id": "11",
+    "client": "Charles Anderson",
+    "phone": "(617) 555-0111",
+    "country": "United Kingdom",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
     },
-    {
-      "id": "12",
-      "client": "John Carter",
-      "phone": "(414) 907 - 1274",
-      "country": "United States",
-      "company": {
-        "name": "Google",
-        "icon": "/images/companies/Google.png"
-      },
-      "status": "offline",
-      "email": "m@example.com"
-    }
-  ],
+    "status": "offline",
+    "email": "charles.anderson@example.com"
+  },
+  {
+    "id": "12",
+    "client": "Barbara Thomas",
+    "phone": "(702) 555-0222",
+    "country": "Australia",
+    "company": {
+      "name": "Google",
+      "icon": "/images/companies/Google.png"
+    },
+    "status": "offline",
+    "email": "barbara.thomas@example.com"
+  }
+],
   "admins": [
     {
       "id": "1",
